@@ -9,12 +9,21 @@ The company collected the transactional data of customers who purchased products
 
 
 User_ID
+
 Product_ID
+
 Gender - sex of a customer
+
 Age - age in bins
+
 Occupation (masked)
+
 City_Category - category of the city [A, B, C]
+
 Stay_In_Current_City_Years: number of years a customer stays in their current city
+
 Marital_Status
+
 Product_Category (masked)
+
 Purchase - purchase amount
